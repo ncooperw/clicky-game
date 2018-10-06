@@ -1,0 +1,38 @@
+[{
+        "id": 1,
+        "image": "BlackAndWhite.jpg"
+    },
+    {
+        "id": 2,
+        "image": "Blue.jpg"
+    },
+    {
+        "id": 3,
+        "image": "download.jpg"
+    },
+    {
+        "id": 4,
+        "image": "Galaxy.jpg"
+    },
+    {
+        "id": 5,
+        "image": "GrayAndBlack.jpg"
+    },
+    {
+        "id": 6,
+        "image": "RedWhiteAndBlack.jpg"
+    },
+    {
+        "id": 7,
+        "image": "WhiteAndBlue.jpg"
+    },
+    {
+        "id": 8,
+        "image": "WhiteAndRed.jpg"
+    },
+    {
+        "id": 9,
+        "image": "YellowAndGray.jpg"
+    }
+
+]
